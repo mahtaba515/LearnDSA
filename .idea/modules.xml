@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day2_Variables&amp;DataTypes/Day2_Variables&amp;DataTypes.iml" filepath="$PROJECT_DIR$/Day2_Variables&amp;DataTypes/Day2_Variables&amp;DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day3_Operators/Day3_Operators.iml" filepath="$PROJECT_DIR$/Day3_Operators/Day3_Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day4_ConditionalStatement/Day4_ConditionalStatement.iml" filepath="$PROJECT_DIR$/Day4_ConditionalStatement/Day4_ConditionalStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sigma9DSA.iml" filepath="$PROJECT_DIR$/.idea/Sigma9DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day4_practiceQuestions/day4_practiceQuestions.iml" filepath="$PROJECT_DIR$/day4_practiceQuestions/day4_practiceQuestions.iml" />
+    </modules>
+  </component>
+</project>
