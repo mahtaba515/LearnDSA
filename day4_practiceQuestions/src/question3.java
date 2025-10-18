@@ -1,6 +1,9 @@
 import java.util.*;
 public class question3 {
     public static void main (String [] args){
+//        Question 3 : Write a Java program to input week number(1-7) and print day of week name
+//using switch case.
+
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Your Day Number : ");
         int day = sc.nextInt();
